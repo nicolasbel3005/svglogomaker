@@ -1,4 +1,4 @@
 <svg height="200" width="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
-<circle cx="100" cy="100" r="100" fill="blue" />
+<polygon points="100,10 200,200 0,200" fill="red" />
 <text x="30" y="120" font-size="70" stroke="black" stroke-width="2" fill="red" font-weight="900">SVG</text>
 </svg>
